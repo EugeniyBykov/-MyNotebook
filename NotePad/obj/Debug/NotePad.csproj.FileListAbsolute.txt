@@ -1,0 +1,31 @@
+C:\Users\Евгений\Новая папка\Desktop\готовые домашки\NotePad\NotePad\bin\Debug\NotePad.exe.config
+C:\Users\Евгений\Новая папка\Desktop\готовые домашки\NotePad\NotePad\bin\Debug\NotePad.exe
+C:\Users\Евгений\Новая папка\Desktop\готовые домашки\NotePad\NotePad\bin\Debug\NotePad.pdb
+C:\Users\Евгений\Новая папка\Desktop\готовые домашки\NotePad\NotePad\obj\Debug\NotePad.Form1.resources
+C:\Users\Евгений\Новая папка\Desktop\готовые домашки\NotePad\NotePad\obj\Debug\NotePad.Properties.Resources.resources
+C:\Users\Евгений\Новая папка\Desktop\готовые домашки\NotePad\NotePad\obj\Debug\NotePad.csproj.GenerateResource.Cache
+C:\Users\Евгений\Новая папка\Desktop\готовые домашки\NotePad\NotePad\obj\Debug\NotePad.exe
+C:\Users\Евгений\Новая папка\Desktop\готовые домашки\NotePad\NotePad\obj\Debug\NotePad.pdb
+C:\Users\Евгений\Новая папка\Desktop\готовые домашки\NotePad\NotePad\obj\Debug\NotePad.csprojResolveAssemblyReference.cache
+C:\Users\Евгений\Новая папка\Desktop\готовые домашки\WindowsForms .Net\NotePad\NotePad\bin\Debug\NotePad.exe.config
+C:\Users\Евгений\Новая папка\Desktop\готовые домашки\WindowsForms .Net\NotePad\NotePad\obj\Debug\NotePad.exe
+C:\Users\Евгений\Новая папка\Desktop\готовые домашки\WindowsForms .Net\NotePad\NotePad\obj\Debug\NotePad.pdb
+C:\Users\Евгений\Новая папка\Desktop\готовые домашки\WindowsForms .Net\NotePad\NotePad\bin\Debug\NotePad.exe
+C:\Users\Евгений\Новая папка\Desktop\готовые домашки\WindowsForms .Net\NotePad\NotePad\bin\Debug\NotePad.pdb
+C:\Users\Евгений\Новая папка\Desktop\готовые домашки\WindowsForms .Net\NotePad\NotePad\obj\Debug\NotePad.csprojResolveAssemblyReference.cache
+C:\Users\Евгений\Новая папка\Desktop\готовые домашки\WindowsForms .Net\NotePad\NotePad\obj\Debug\NotePad.Form1.resources
+C:\Users\Евгений\Новая папка\Desktop\готовые домашки\WindowsForms .Net\NotePad\NotePad\obj\Debug\NotePad.Properties.Resources.resources
+C:\Users\Евгений\Новая папка\Desktop\готовые домашки\WindowsForms .Net\NotePad\NotePad\obj\Debug\NotePad.csproj.GenerateResource.Cache
+C:\Users\Евгений\Новая папка\Desktop\готовые домашки\WindowsForms .Net\NotePad\NotePad\obj\Debug\NotePad.Form2.resources
+C:\Users\Евгений\Новая папка\Desktop\готовые домашки\WindowsForms .Net\NotePad\NotePad\obj\Debug\NotePad.Form3.resources
+C:\Users\Евгений\Новая папка\Desktop\EducationStep\готовые домашки\WindowsForms .Net\NotePad\NotePad\bin\Debug\NotePad.exe.config
+C:\Users\Евгений\Новая папка\Desktop\EducationStep\готовые домашки\WindowsForms .Net\NotePad\NotePad\obj\Debug\NotePad.exe
+C:\Users\Евгений\Новая папка\Desktop\EducationStep\готовые домашки\WindowsForms .Net\NotePad\NotePad\obj\Debug\NotePad.pdb
+C:\Users\Евгений\Новая папка\Desktop\EducationStep\готовые домашки\WindowsForms .Net\NotePad\NotePad\bin\Debug\NotePad.exe
+C:\Users\Евгений\Новая папка\Desktop\EducationStep\готовые домашки\WindowsForms .Net\NotePad\NotePad\bin\Debug\NotePad.pdb
+C:\Users\Евгений\Новая папка\Desktop\EducationStep\готовые домашки\WindowsForms .Net\NotePad\NotePad\obj\Debug\NotePad.csprojResolveAssemblyReference.cache
+C:\Users\Евгений\Новая папка\Desktop\EducationStep\готовые домашки\WindowsForms .Net\NotePad\NotePad\obj\Debug\NotePad.Form1.resources
+C:\Users\Евгений\Новая папка\Desktop\EducationStep\готовые домашки\WindowsForms .Net\NotePad\NotePad\obj\Debug\NotePad.Form2.resources
+C:\Users\Евгений\Новая папка\Desktop\EducationStep\готовые домашки\WindowsForms .Net\NotePad\NotePad\obj\Debug\NotePad.Form3.resources
+C:\Users\Евгений\Новая папка\Desktop\EducationStep\готовые домашки\WindowsForms .Net\NotePad\NotePad\obj\Debug\NotePad.Properties.Resources.resources
+C:\Users\Евгений\Новая папка\Desktop\EducationStep\готовые домашки\WindowsForms .Net\NotePad\NotePad\obj\Debug\NotePad.csproj.GenerateResource.Cache
